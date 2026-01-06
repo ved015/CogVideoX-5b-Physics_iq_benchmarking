@@ -1,6 +1,6 @@
 # CogVideoX-5b-i2v Physics-IQ Benchmark
 
-This repository contains **all artifacts required to reproduce Physics-IQ–style benchmarking for CogVideoX**, including notebooks, evaluation scripts, generated samples, and results.
+This repository contains **all artifacts required to reproduce Physics-IQ–style benchmarking for CogVideoX**, including evaluation scripts, generated samples, and results.
 
 ---
 
@@ -19,7 +19,7 @@ This repository applies that evaluation protocol to **CogVideoX**.
 
 ---
 
-## ⚙️ Environment & Requirements
+##  Environment & Requirements
 
 ### Hardware (Recommended)
 
@@ -52,7 +52,7 @@ Running CogVideoX reliably for this benchmark requires **significant compute**:
 ---
 
 
-## 📊 Results
+##  Results
 
 Achieved a physics-IQ-benchmark of **32.3%**
 
